@@ -1,0 +1,17 @@
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1._2.Form1.resources
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.csproj.GenerateResource.cache
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.AssemblyInfoInputs.cache
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.AssemblyInfo.cs
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.csproj.CoreCompileInputs.cache
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\bin\Debug\net10.0-windows\ThucHanhBuoi1.2.exe
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\bin\Debug\net10.0-windows\ThucHanhBuoi1.2.deps.json
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\bin\Debug\net10.0-windows\ThucHanhBuoi1.2.runtimeconfig.json
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\bin\Debug\net10.0-windows\ThucHanhBuoi1.2.dll
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\bin\Debug\net10.0-windows\ThucHanhBuoi1.2.pdb
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.dll
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\refint\ThucHanhBuoi1.2.dll
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.pdb
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanhBuoi1.2.genruntimeconfig.cache
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ref\ThucHanhBuoi1.2.dll
+C:\IT008\ThucHanhBuoi1\ThucHanhBuoi1.2\ThucHanhBuoi1.2\obj\Debug\net10.0-windows\ThucHanh.80D9D19F.Up2Date
